@@ -1,2 +1,3 @@
-# super-health-tracker-054h
-Automated issue comment bot repository
+# Super Health Tracker 054H
+
+Automated issue comment bot repository.
